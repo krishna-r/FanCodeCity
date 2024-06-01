@@ -62,6 +62,6 @@ public class FanCodeCityTest {
             assertTrue(completionPercentage > 50, "User " + userId + " has completion percentage " + completionPercentage + "% which is not greater than 50%");
 
         }
-        System.out.println("Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : "+userCount);
+        System.out.println("Total number of users staying in FanCodeCity, who has Completed task percentage should be greater than 50% : "+userCount);
     }
 }
