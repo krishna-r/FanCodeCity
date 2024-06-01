@@ -17,7 +17,7 @@ Internet connection to access JSONPlaceholder API
 
 Steps
 1. Clone the repository
-   git clone https://github.com/krishna-r/FanCodeCity.git)
+   git clone https://github.com/krishna-r/FanCodeCity.git
    cd <repository-directory>
    
 2. Download dependencies given in pom.xml
