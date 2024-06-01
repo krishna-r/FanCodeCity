@@ -48,4 +48,4 @@ Copy code
 
 ### Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : 3 <br />
 
-Note : html test report shall be available at path <project-dir>\target\surefire-reports\index.html
+Note : html test report shall be available at path \<project-dir\>\target\surefire-reports\index.html
