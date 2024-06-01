@@ -57,7 +57,7 @@ public class FanCodeCityTest {
                 System.out.println("User details for user staying in FanCode City");
             }
             System.out.println("Serial number : "+userCount);
-            System.out.println("userName : "+userName+" | userId: "+ userId+ " | completionPercentage : "+completionPercentage);
+            System.out.println("userName : "+userName+" | userId: "+ userId+ " | taskCompletionPercentage : "+completionPercentage);
             // Step 5: Verify that the completion percentage is greater than 50%
             assertTrue(completionPercentage > 50, "User " + userId + " has completion percentage " + completionPercentage + "% which is not greater than 50%");
 
