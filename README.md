@@ -1,43 +1,49 @@
-**Project Structure**
+# FanCode City Test Project
+**Project Structure
+bash
+Copy code
 .
-├── pom.xml
-└── src
-    └── test
-        └── java
-            └── org
-                └── example
-                    └── FanCodeCityTest.java
-                    
-**Setup and Run the Maven Project
+├── pom.xml  <br />
+└── src  <br />
+   &emsp; └── test  <br />
+      &emsp;&emsp;  └── java  <br />
+          &emsp;&emsp;&emsp;  └── org  <br />
+            &emsp;&emsp;&emsp;&emsp;    └── example  <br />
+              &emsp;&emsp;&emsp;&emsp;&emsp;      └── FanCodeCityTest.java  <br />  <br /> <br />
+# Setup and Run the Maven Project <br />
+## Prerequisites <br />
+&nbsp; 1.Java Development Kit (JDK) 8 or later  <br />
+&nbsp; 2.Maven <br />
+&nbsp; 3.Internet connection to access JSONPlaceholder API <br />
+ <br />
+## Steps <br />
 
-**Prerequisites
-Java Development Kit (JDK) 8 or later
-Maven
-Internet connection to access JSONPlaceholder API
+### Setup <br />
+&nbsp; 1 .Clone the repository <br />
+&nbsp; &nbsp; git clone https://github.com/krishna-r/FanCodeCity.git <br />
+&nbsp; 2 .Navigate to project directory <br />
+&nbsp; &nbsp; cd repository-directory <br />
+&nbsp; 3 Download dependencies given in pom.xml <br />
+&nbsp; &nbsp; mvn clean install <br />
 
-Steps
-1. Clone the repository
-   git clone https://github.com/krishna-r/FanCodeCity.git
-   cd <repository-directory>
-   
-2. Download dependencies given in pom.xml
-     mvn clean install
-3. To run project open terminal / command prompt and run below command (this steps depends on  cd <repository-directory> i.e while executing maven command user should first navigate to project folder)
-   mvn clean test
+### Run the project <br />
+## To run the project, open terminal/command prompt and run the below command (ensure you are in the project folder) <br />
+&nbsp; mvn clean test <br />
 
-Console output
-User details for user staying in FanCode City
-Serial number : 1
-userName : Leanne Graham userId: 1 | completionPercentage : 55.00000000000001
-Serial number : 2
-userName : Chelsey Dietrich userId: 5 | completionPercentage : 60.0
-Serial number : 3
-userName : Clementina DuBuque userId: 10 | completionPercentage : 60.0
-Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : 3
+# Console Output <br />
 
+### User details for user staying in FanCode City <br />
 
+### Serial number : 1 <br />
 
+### userName : Leanne Graham userId: 1 | completionPercentage : 55.00000000000001 <br />
 
+### Serial number : 2 <br />
 
+### userName : Chelsey Dietrich userId: 5 | completionPercentage : 60.0 <br />
 
+### Serial number : 3 <br />
 
+### userName : Clementina DuBuque userId: 10 | completionPercentage : 60.0 <br />
+
+### Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : 3 <br />
