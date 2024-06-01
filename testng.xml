@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="FanCodeCityTestSuite">
+    <test name="FanCodeCityTests">
+        <classes>
+            <class name="org.example.FanCodeCityTest"/>
+
+            <!-- Add more test classes if needed -->
+        </classes>
+    </test>
+</suite>
