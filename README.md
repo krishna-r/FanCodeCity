@@ -36,14 +36,14 @@ Copy code
 
 ### Serial number : 1 <br />
 
-### userName : Leanne Graham | userId: 1 | completionPercentage : 55.00000000000001 <br />
+### userName : Leanne Graham | userId: 1 | taskCompletionPercentage : 55.00000000000001 <br />
 
 ### Serial number : 2 <br />
 
-### userName : Chelsey Dietrich | userId: 5 | completionPercentage : 60.0 <br />
+### userName : Chelsey Dietrich | userId: 5 | taskCompletionPercentage : 60.0 <br />
 
 ### Serial number : 3 <br />
 
-### userName : Clementina DuBuque | userId: 10 | completionPercentage : 60.0 <br />
+### userName : Clementina DuBuque | userId: 10 | taskCompletionPercentage : 60.0 <br />
 
 ### Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : 3 <br />
