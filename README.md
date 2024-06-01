@@ -47,3 +47,5 @@ Copy code
 ### userName : Clementina DuBuque | userId: 10 | taskCompletionPercentage : 60.0 <br />
 
 ### Total number of users staying in FanCodeCity are who has Completed task percentage should be greater than 50% : 3 <br />
+
+Note : html test report shall be available at path <project-dir>\target\surefire-reports\index.html
